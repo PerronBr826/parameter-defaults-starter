@@ -1,5 +1,5 @@
-# Student name
-# Current date
+# Bryce Perron
+# 11/18/24
 # Default Values for Parameters Practice
 
 # 8-3 (T-Shirt)
